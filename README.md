@@ -1,4 +1,4 @@
-# ODP One Digital Platform - Java Microservice SDK
+# Microsserviço - Java Microservice SDK
 
 Projeto utilizado para a aceleração na construção de apis de forma produtiva com Java e Spring Boot.
 
