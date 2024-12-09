@@ -29,13 +29,6 @@ Antes de rodar a aplicação é preciso garantir que as seguintes dependências 
 
 ## Iniciando...
 
-```bash
-git clone https://dev.azure.com/vwtb/AWS_Ecossistema_Digital/_git/java-service-sdk
-```
-
-```bash
-cd java-service-sdk
-```
 
 Agora você poderá executar os vários comandos abaixo.
 
